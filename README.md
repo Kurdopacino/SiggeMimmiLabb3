@@ -28,7 +28,7 @@ För att köra detta projekt lokalt, följ dessa steg:
 1. **Kloning av repot**:  
    Klona detta repository till din lokala maskin.
    ```bash
-   git clone https://github.com/ditt-användarnamn/SiggeMimmiLabb3.git
+   git clone (https://github.com/Kurdopacino/SiggeMimmiLabb3.git)
 
 2. **Installera beroenden:**:  
   Öppna lösningen i Visual Studio och se till att alla nödvändiga paket är installerade. Detta inkluderar CsvHelper och EntityFrameworkCore.
